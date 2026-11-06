@@ -24,4 +24,4 @@ Este repositorio es público. Por eso en estas 13 capturas se han tapado con rec
 | 16m2-pendrive-formato-completo-fin.png | Texto del fondo de escritorio | 8fdc49886f4f517e37f5ef79367cf429474c79f209197d63f35ae80433c10372 | 2aba1f3a5ab054148bd8a01c01c822b2f70093ddc32962fed1944f08d18244a7 |
 | 17b-entrega-sha256sum-ok-natalia.jpg | Barra de tareas del portátil de Natalia (foto girada a vertical; EXIF conservado) | 065d44636055489f74a228a624a15b775087235566be85ec467733098c446788 | ab5312a4ba089cc7afcddbcf9b78333488a3df73f66f440fe235b4c3bb2d7c93 |
 
-Las otras 77 capturas son idénticas a las originales.
+Las otras 78 capturas son idénticas a las originales.
