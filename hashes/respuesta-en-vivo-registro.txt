@@ -1,0 +1,50 @@
+﻿2026-11-02 18:50:30Z  Caso P02 - evidencia FORENSE-06 - equipo FORENSE-06 - usuario FORENSE-06\Administrador
+2026-11-02 18:50:30Z  Hora local 2026-11-02 19:50:29 - zona Romance Standard Time - desfase UTC 01:00:00
+2026-11-02 18:50:30Z  PowerShell 2.0 - version adaptada PS 2.0
+2026-11-02 18:50:30Z  Anota en el acta la diferencia entre este reloj y la hora real.
+2026-11-02 18:50:30Z  INICIO 01-fecha-hora
+2026-11-02 18:50:30Z  ERROR  01-fecha-hora : Operation is not valid due to the current state of the object.
+2026-11-02 18:50:30Z  INICIO 01b-sincronizacion
+2026-11-02 18:50:30Z  FIN    01b-sincronizacion
+2026-11-02 18:50:30Z  INICIO 02-arranque
+2026-11-02 18:50:30Z  FIN    02-arranque
+2026-11-02 18:50:30Z  INICIO 03-sesiones
+2026-11-02 18:50:30Z  FIN    03-sesiones
+2026-11-02 18:50:30Z  INICIO 04-conexiones-tcp
+2026-11-02 18:50:30Z  FIN    04-conexiones-tcp
+2026-11-02 18:50:30Z  INICIO 05-puertos-udp
+2026-11-02 18:50:30Z  FIN    05-puertos-udp
+2026-11-02 18:50:30Z  INICIO 06-netstat
+2026-11-02 18:50:30Z  FIN    06-netstat
+2026-11-02 18:50:30Z  INICIO 07-cache-arp
+2026-11-02 18:50:30Z  FIN    07-cache-arp
+2026-11-02 18:50:30Z  INICIO 08-cache-dns
+2026-11-02 18:50:30Z  FIN    08-cache-dns
+2026-11-02 18:50:30Z  INICIO 09-rutas
+2026-11-02 18:50:30Z  FIN    09-rutas
+2026-11-02 18:50:30Z  INICIO 10-configuracion-red
+2026-11-02 18:50:30Z  FIN    10-configuracion-red
+2026-11-02 18:50:30Z  INICIO 11-recursos-compartidos
+2026-11-02 18:50:31Z  FIN    11-recursos-compartidos
+2026-11-02 18:50:31Z  INICIO 12-procesos
+2026-11-02 18:50:31Z  FIN    12-procesos
+2026-11-02 18:50:31Z  INICIO 12b-tasklist
+2026-11-02 18:50:31Z  FIN    12b-tasklist
+2026-11-02 18:50:31Z  INICIO 13-servicios
+2026-11-02 18:50:31Z  FIN    13-servicios
+2026-11-02 18:50:31Z  INICIO 14-tareas-programadas
+2026-11-02 18:50:32Z  FIN    14-tareas-programadas
+2026-11-02 18:50:32Z  INICIO 15-inicio-automatico
+2026-11-02 18:50:32Z  FIN    15-inicio-automatico
+2026-11-02 18:50:32Z  INICIO 16-usuarios-locales
+2026-11-02 18:50:32Z  FIN    16-usuarios-locales
+2026-11-02 18:50:32Z  INICIO 16b-administradores
+2026-11-02 18:50:32Z  FIN    16b-administradores
+2026-11-02 18:50:32Z  INICIO 17-discos-volumenes
+2026-11-02 18:50:32Z  FIN    17-discos-volumenes
+2026-11-02 18:50:32Z  INICIO 18-usb-conectados
+2026-11-02 18:50:33Z  FIN    18-usb-conectados
+2026-11-02 18:50:33Z  INICIO 19-portapapeles
+2026-11-02 18:50:33Z  FIN    19-portapapeles
+2026-11-02 18:50:33Z  Calculando SHA-256 de los ficheros generados
+2026-11-02 18:50:33Z  Terminado en 4 s. Salida: \\vmware-host\Shared Folders\P02\volatiles\P02_FORENSE-06_20261102-185029

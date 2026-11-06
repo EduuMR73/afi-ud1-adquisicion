@@ -1,0 +1,3 @@
+# Registros forenses: no convertir finales de línea (LF/CRLF).
+# Cada fichero se guarda y se descarga byte a byte, así sus hashes siguen coincidiendo.
+* -text

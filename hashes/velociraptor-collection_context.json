@@ -1,0 +1,48 @@
+{
+ "session_id": "F.DBKDUMDUEJOFI",
+ "request": {
+  "artifacts": [
+   "Windows.Triage.Targets"
+  ],
+  "specs": [
+   {
+    "artifact": "Windows.Triage.Targets",
+    "parameters": {
+     "env": [
+      {
+       "key": "HighLevelTargets",
+       "value": "[\"_KapeTriage\"]"
+      }
+     ]
+    }
+   }
+  ],
+  "max_upload_bytes": 1073741824
+ },
+ "create_time": 1793646425497070300,
+ "total_uploaded_files": 480,
+ "total_expected_uploaded_bytes": 61350576,
+ "total_uploaded_bytes": 61350576,
+ "total_collected_rows": 475,
+ "total_logs": 498,
+ "total_requests": 1,
+ "execution_duration": 18464843700,
+ "state": 2,
+ "artifacts_with_results": [
+  "Windows.Triage.Targets/SearchGlobs",
+  "Windows.Triage.Targets/All_Matches_Metadata",
+  "Windows.Triage.Targets/Uploads"
+ ],
+ "query_stats": [
+  {
+   "duration": 18464843700,
+   "names_with_response": [
+    "Windows.Triage.Targets/SearchGlobs",
+    "Windows.Triage.Targets/All_Matches_Metadata",
+    "Windows.Triage.Targets/Uploads"
+   ],
+   "log_rows": 498,
+   "result_rows": 475
+  }
+ ]
+}
