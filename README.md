@@ -12,7 +12,7 @@
 | [notas-de-trabajo.md](notas-de-trabajo.md) | Cuaderno de la intervención, en orden y con hora: qué se hizo, qué se vio, qué se decidió y por qué, con comandos exactos, incidencias y errores |
 | [acta-adquisicion.pdf](acta-adquisicion.pdf) | Acta firmada: cada evidencia, cómo y cuándo se obtuvo, con qué herramienta y su hash |
 | [registro-custodia.pdf](registro-custodia.pdf) | Registro de cadena de custodia firmado, desde la adquisición hasta la devolución |
-| [hashes/](hashes/) | `hashes.sha256` de toda la carpeta de evidencias y los registros de las herramientas (FTK Imager, script de volátiles, Velociraptor, EDD, bloqueo USB) |
+| [hashes/](hashes/) | `hashes.sha256` de toda la carpeta de evidencias, los registros de las herramientas (FTK Imager, script de volátiles, Velociraptor, EDD, bloqueo USB), `hashes-herramientas.txt` (inventario de las herramientas del disco de respuesta) y `fotos.sha256` (fotos de la entrega y los precintos) |
 | [capturas/](capturas/) | Capturas y fotos numeradas según las filas de las notas de trabajo. 13 están censuradas por privacidad: ver [capturas/CENSURADAS.md](capturas/CENSURADAS.md) |
 
 ## Evidencias adquiridas
